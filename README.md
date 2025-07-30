@@ -22,14 +22,16 @@
 
 ---
 
-### 🧩 Notable Projects
+## 🧩 Notable Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎯 Anchor-Starter](https://github.com/rileyridge/anchor-starter) | Boilerplate dApp with Anchor + React | Rust, Solana, Anchor |
-| [🪙 Token Mint UI](https://github.com/rileyridge/token-mint-ui) | Mint SPL tokens with a simple frontend | TypeScript, Phantom |
-| [🌉 Cross-Chain Bridge POC](https://rileyridge/yourusername/bridge-prototype) | A prototype for EVM ↔ Solana asset bridge | Rust, Web3.js |
+| Project | Description |
+|--------|-------------|
+| 🔁 [High-Speed Copy Trading Bot](https://github.com/rileyridge/High-speed-solana-copy-trading-bot) | Mirror top wallets' transactions on Solana in real-time. Built with Rust & Anchor. |
+| ⚡ [Solana MEV Bot](https://github.com/rileyridge/solana-mev-bot) | A minimal Solana MEV bot to detect and execute profitable on-chain arbitrage opportunities. |
+| 🐶 [Pump.fun & Bonk.fun Sniper](https://github.com/rileyridge/solana-pumpfun-bonkfun-sniper-Bot) | Automated sniper for pump.fun and bonk.fun memecoins — fast and accurate launches. |
+| 🔄 [Ultra-Fast Swapping Bot](https://github.com/rileyridge/-ultra-fast-swapping-bot-for-solana) | A blazing fast swap bot for Solana, optimized for fast trades on DeFi protocols. |
 
+---
 ---
 
 ### 📈 GitHub Stats
